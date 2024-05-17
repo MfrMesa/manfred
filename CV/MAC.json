@@ -363,6 +363,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
           "name": "Figma",
           "type": "technology"
         },
