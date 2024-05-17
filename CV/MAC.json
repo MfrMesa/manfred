@@ -365,6 +365,10 @@
         {
           "name": "Figma",
           "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
