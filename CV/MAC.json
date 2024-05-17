@@ -395,6 +395,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer",
         "Project Manager & Delivery Manager"
