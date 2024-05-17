@@ -383,6 +383,10 @@
           "type": "technology"
         },
         {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         }
