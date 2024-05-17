@@ -362,7 +362,8 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Frontend Developer"
+        "Frontend Developer",
+        "Project Manager & Delivery Manager"
       ]
     },
     "status": "searchingActively"
