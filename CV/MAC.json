@@ -399,6 +399,10 @@
         {
           "name": ".NET",
           "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
