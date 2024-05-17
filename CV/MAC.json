@@ -189,6 +189,89 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Develhope / UXER School",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/17/eae3e2f1-1262-42ea-a224-6e303162b231_logo.jpeg",
+            "alt": "logo.jpeg"
+          },
+          "URL": "https://blog.develhope.co/tag/spanish/"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer / UX/UI Designer",
+            "startDate": "2023-11-01",
+            "challenges": [
+              {
+                "description": "Participé en el Bootcamp de Full Stack Developer, donde adquirí habilidades sólidas en HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js y GIT. Desarrollé la capacidad de definir e integrar llamadas de red REST API, así como experiencia en CI (Integración Continua) y gestión de dependencias con npm. Además, fortalecí mis habilidades blandas.\n\nDurante el bootcamp, colaboré activamente en la creación de proyectos en equipos de seis personas, utilizando la metodología Agile. Lideré de manera efectiva uno de los proyectos, demostrando habilidades de liderazgo y una comprensión profunda de la coordinación en equipo en un entorno ágil.\n\nActualmente estoy en un curso intensivo por las noches de UX/UI en UXER School"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Miro",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Notion",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
