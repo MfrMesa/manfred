@@ -1,0 +1,385 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "María",
+      "surnames": "Fernanda Gómez Mesa",
+      "title": "Front-end Developer & UX/UI Designer",
+      "description": "Profesional con larga trayectoria en la gestión gastronómica, liderando implementaciones de tiendas, eventos y coordinación con proveedores. Mi habilidad estratégica se refleja en la planificación de eventos, la supervisión eficiente de equipos, administrar recursos, gestionar proyectos, manejar presupuestos, entre otros.\n\nMe formé en Develhope como Full Stack Developer y en un mes empiezo en UXER School para formarme en UX/UI Design.\n\nBusco mi primer rol en Front End y UX/UI para aplicar mi creatividad, visión estratégica y habilidades de liderazgo en un nuevo desafío tecnológico. ¡Conéctame y exploremos cómo puedo aportar a tu equipo y proyecto innovador de manera única y fresca!",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/1c50d6ae-baa4-4544-bf0e-ded1f05fe4cb_linkedin-photo-58193.linkedin-photo-58193",
+        "alt": "24/05/09/1c50d6ae-baa4-4544-bf0e-ded1f05fe4cb_linkedin-photo-58193.linkedin-photo-58193"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/mfrmesa"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Azucart"
+        },
+        "roles": [
+          {
+            "name": "Pastelera",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "He liderado la elaboración y decoración de pasteles, postres y productos personalizados para eventos especiales, incluyendo bodas, cumpleaños y otras celebraciones.\nDiseño y creación de pasteles y postres adaptados a la temática y preferencias de cada evento, asegurando una experiencia única para los clientes.\nDecoración artística utilizando diversas técnicas, desde glaseados elegantes hasta detalles personalizados, para realzar la estética de cada producto.\nColaboración estrecha con clientes para entender sus visiones y convertirlas en creaciones deliciosas y visualmente impactantes.\nGarantía de la calidad de los ingredientes utilizados y la precisión en las técnicas de elaboración para asegurar un sabor excepcional.\nCoordinación eficiente para cumplir con plazos de entrega y superar las expectativas de los clientes en eventos especiales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Panadería Las Esclavas"
+        },
+        "roles": [
+          {
+            "name": "Dependiente de panadería/pastelería",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "He desempeñado un papel esencial en la reposición de género, manteniendo la frescura y presentación óptima de productos. Mi enfoque integral abarca desde la limpieza de vitrinas hasta el orden meticuloso según la frescura de cada artículo.\nReposición estratégica del inventario, garantizando la disponibilidad constante y la presentación atractiva de productos de panadería, repostería y confitería.\nMantenimiento impecable de las vitrinas, asegurando la limpieza y la organización para realzar la apariencia visual de los productos.\nParticipación activa en la presentación y venta de productos, proporcionando información detallada sobre la variedad y características de cada artículo.\nManejo ágil de la caja registradora, realizando transacciones con precisión y eficiencia.\nResponsable del cobro al cliente y ejecución del arqueo diario, garantizando la exactitud en las transacciones financieras."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Chabel Cosas Ricas"
+        },
+        "roles": [
+          {
+            "name": "Pastelera/Cocinera",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "Mi enfoque abarca desde la creación hasta el despacho durante los servicios de merienda y cena, asegurando una experiencia culinaria excepcional para los comensales.\nDesarrollo y ejecución de recetas propias y asignadas, destacando la diversidad y calidad de los productos de pastelería.\nGestión eficiente del inventario, supervisando el reabastecimiento y garantizando el correcto almacenamiento y conservación de los productos para mantener la frescura.\nCoordinación del despacho en los servicios de merienda y cena, asegurando una presentación impecable y un servicio puntual.\nColaboración activa con el equipo de cocina para garantizar la coherencia en la oferta gastronómica y la satisfacción del cliente."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Laban Patisserie"
+        },
+        "roles": [
+          {
+            "name": "Pastelera",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "Como especialista en la elaboración de postres fríos y masas, he desempeñado un papel crucial en la creación y suministro de productos de alta calidad para restaurantes, hoteles y el establecimiento mismo. Mi enfoque se centra en la producción de masas de panes variados, tales como brioche, hojaldre, ciabatta, campesino y medialunas, destinadas para el uso posterior de los panaderos.\nElaboración de postres fríos, asegurando presentaciones atractivas y sabores deliciosos para satisfacer los estándares de los clientes.\nDesarrollo y preparación de diversas masas de pan, garantizando su calidad y textura para su uso posterior por el equipo de panadería.\nColaboración con chefs y panaderos para adaptar las recetas según las necesidades específicas del establecimiento.\nMantenimiento de altos estándares de higiene y seguridad alimentaria en todas las etapas del proceso de elaboración."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fava Catering"
+        },
+        "roles": [
+          {
+            "name": "Pastelera",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "Mi habilidad distintiva se centra en la creación de hasta 600 postres emplatados y la producción masiva de entre 1000 y 2000 petit four por evento.\nDiseñar y personalizar postres según las preferencias y temáticas específicas de cada cliente, generando así experiencias únicas.\nCoordinar eficientemente eventos de diversas magnitudes, asegurando una presentación impecable y la plena satisfacción de los clientes.\nUtilizar ingredientes de la más alta calidad para garantizar un deleite gastronómico excepcional.\nMantener estándares operativos para cumplir con las demandas de eventos con hasta 1000 invitados.\nMi enfoque proactivo y atención meticulosa a los detalles han contribuido significativamente al éxito y la satisfacción de los clientes en cada evento, consolidando mi reputación como una profesional confiable y creativa en el ámbito de la pastelería y repostería personalizada para eventos especiales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Berries Pastries"
+        },
+        "roles": [
+          {
+            "name": "Jefe de Pastelería",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "Creación personalizada de tartas americanas, aplicando tanto buttercream como fondant, para satisfacer las preferencias y exigencias de los clientes.\nPlanificación y ejecución de estrategias para nuevas ventas y promociones, aumentando la visibilidad y el alcance.\nDiseño, publicación y mantenimiento de contenidos en redes sociales, generando una presencia activa y atractiva para la comunidad virtual.\nSupervisión y control del stock de mercancía, asegurando una oferta constante y variada de productos.\nGestión efectiva de recursos materiales y financieros, optimizando los costos y maximizando la rentabilidad del negocio."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Copetin Catering"
+        },
+        "roles": [
+          {
+            "name": "Jefe de Pastelería",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "Liderar efectivamente la supervisión de un equipo de seis personas, con enfoque en la asignación estratégica de tareas y actividades para maximizar la eficiencia. Responsable de la planificación detallada y control de horarios del personal, garantizando una gestión fluida y optimizada. Destacar la experiencia en la gestión de inventario para mantener operaciones sin contratiempos. Además, contribuir activamente al diseño e innovación de productos para impulsar la diferenciación y éxito del negocio."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mudra/Golda"
+        },
+        "roles": [
+          {
+            "name": "Pastelera",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "Creación de una amplia variedad de postres veganos, asegurando una oferta diversa y deliciosa para satisfacer las demandas de los clientes conscientes de su alimentación, incluyendo mousses, tartas, cremosos, brioche, pan sin gluten, bizcochos, y diversas masas.\nDespacho en servicio, garantizando la presentación impecable y el cumplimiento de estándares de calidad en cada entrega.\nControl detallado de stock, asegurando una gestión eficiente y oportuna de los ingredientes y productos utilizados en la elaboración diaria.\nRealización de pastelería argentina y judía, implementando nuevas propuestas para enriquecer el menú y satisfacer las preferencias de una clientela diversa.\nColaboración activa en la implementación de nuevos postres, incorporando creatividad y adaptándome a las tendencias y necesidades del mercado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Amaris"
+        },
+        "roles": [
+          {
+            "name": "Encargado de tienda",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "Liderar en el diseño, planificación y ejecución de la apertura de tienda, asegurar una coordinación efectiva con proveedores. Supervisar activamente al equipo a mi cargo, con enfoque en la planificación y control de horarios, gestionar inventario y asignar estratégicamente tareas. Manejo eficiente de presupuestos y caja chica para optimizar recursos y garantizar operaciones sin contratiempos. Contribuir al diseño e innovación de productos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sweet Delivery"
+        },
+        "roles": [
+          {
+            "name": "Responsable de área",
+            "startDate": "2024-05-09",
+            "challenges": [
+              {
+                "description": "Dirigir la apertura y funcionamiento de la tienda, organizar eventos semanal y mensualmente, establecer coordinación efectiva con proveedores. Supervisar el equipo a mi cargo, gestionar horarios y asignar tareas estratégicamente. Participar activamente en el diseño e innovación de productos, contribuir a la diferenciación y éxito del negocio."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Administración Hotelera, Administración/Gestión hotelera",
+        "startDate": "2011-03-01",
+        "institution": {
+          "name": "Colegio Universitario de Caracas"
+        },
+        "finishDate": "2014-03-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Especialista en Gastronomía y Alta Cocina, Cocina y gastronomía, general",
+        "startDate": "2011-03-01",
+        "institution": {
+          "name": "Instituto Argentino Gastronómico (IGA)"
+        },
+        "finishDate": "2014-03-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Especialista en Panadería Dulce y Salada, Cocina y gastronomía, general",
+        "startDate": "2016-08-01",
+        "institution": {
+          "name": "Instituto Gastronómico Argentino (IAG)"
+        },
+        "finishDate": "2016-12-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Especialización en Pastelería , Cocina y gastronomía, general",
+        "startDate": "2016-08-01",
+        "institution": {
+          "name": "Instituto Gastronómico Argentino (IAG)"
+        },
+        "finishDate": "2016-12-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Full Stack Developer, Tecnología informática ",
+        "startDate": "2023-11-01",
+        "institution": {
+          "name": "Develhope",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/dd0b2d55-bfbf-4c18-bd5c-b7fd6589584b_linkedin-photo-58193.linkedin-photo-58193",
+            "alt": "24/05/09/dd0b2d55-bfbf-4c18-bd5c-b7fd6589584b_linkedin-photo-58193.linkedin-photo-58193"
+          }
+        },
+        "finishDate": "2024-05-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Prácticas , Administración/Gestión hotelera",
+        "startDate": "2013-09-01",
+        "institution": {
+          "name": "Hotel Eurobuilding Caracas"
+        },
+        "finishDate": "2014-02-28"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "UX/UI Designer, Diseño",
+        "startDate": "2024-03-01",
+        "institution": {
+          "name": "UXER SCHOOL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/8cc4233a-d503-425d-be98-d6e764e094a7_linkedin-photo-58193.linkedin-photo-58193",
+            "alt": "24/05/09/8cc4233a-d503-425d-be98-d6e764e094a7_linkedin-photo-58193.linkedin-photo-58193"
+          }
+        },
+        "finishDate": "2024-06-30"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/mfrmesa",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "berriesccs@gmail.com"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ]
+  }
+}
