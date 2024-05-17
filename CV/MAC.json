@@ -361,6 +361,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Figma",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer",
         "Project Manager & Delivery Manager"
